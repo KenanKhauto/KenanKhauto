@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kenan</h1>
-<h3 align="center">A passionate computer science student specializing in Deep Learning & Web Developer</h3>
+<h3 align="center">A passionate computer science student specializing in Deep Learning</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47dittkt9q8tcga5fhp0ibnq45ffe5woj85mvi6esi&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenankhauto&label=Profile%20views&color=0e75b6&style=flat" alt="kenankhauto" /> </p>
