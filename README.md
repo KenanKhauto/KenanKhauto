@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenankhauto&label=Profile%20views&color=0e75b6&style=flat" alt="kenankhauto" /> </p>
 
-- 🔭 I’m currently working on [parlament_browser_v2](https://github.com/KenanKhauto/parlament_browser_v2)
+- 🔭 I’m currently working on [Online Hand Gesture Recognition](https://github.com/KenanKhauto/online-gesture-recognition-project)
 
 - 🌱 I’m currently learning **Pytorch**
 
