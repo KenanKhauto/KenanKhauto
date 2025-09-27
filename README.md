@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenankhauto&label=Profile%20views&color=0e75b6&style=flat" alt="kenankhauto" /> </p>
 
-- 🔭 I’m currently working on [Online Hand Gesture Recognition](https://github.com/KenanKhauto/online-gesture-recognition-project)
-
-- 🌱 I’m currently learning **Pytorch**
+- 🔭 I’m currently working on [Source Seperation]([https://github.com/KenanKhauto/online-gesture-recognition-project](https://github.com/KenanKhauto/source_seperation))
 
 - 📫 How to reach me **kenan.khauto@outlook.com**
 
