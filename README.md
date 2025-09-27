@@ -22,3 +22,5 @@
 | **Web Development**   | Flask |
 | **Databases**         | MySQL, MariaDB, MongoDB |
 | **Tools & Platforms** | Git, Linux |
+
+I am comfortable adapting to new programming languages and frameworks quickly, as my focus is on concepts rather than syntax.
